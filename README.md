@@ -24,10 +24,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maya eid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maya eid" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maya-eid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maya eid" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mayaeyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mayaeyd" height="30" width="40" /></a>
 <a href="https://instagram.com/mayaeyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayaeyd" height="30" width="40" /></a>
-<a href="https://dribbble.com/maya eid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="maya eid" height="30" width="40" /></a>
+<a href="https://dribbble.com/mayaeyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="maya eid" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/maya_eid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maya_eid" height="30" width="40" /></a>
 </p>
 
