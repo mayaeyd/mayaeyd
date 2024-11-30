@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)]
+![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)
 <h1 align="center">Hi 👋, I'm Maya Eid</h1>
 <h3 align="center">A dedicated full stack developer based in Lebanon</h3>
-<img align="right" alt="Coding" src="https://giphy.com/embed/7NoNw4pMNTvgc" width="480" >
+<img align="right" alt="Coding" src="[https://giphy.com/embed/7NoNw4pMNTvgc](https://giphy.com/embed/7NoNw4pMNTvgc)" width="480" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayaeyd&label=Profile%20views&color=0e75b6&style=flat" alt="mayaeyd" /> </p>
 
