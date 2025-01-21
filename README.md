@@ -1,4 +1,3 @@
-![MasterHead](https://user-images.githubusercontent.com/95495584/194896166-7cef5a2a-44ff-4b07-b770-c03f9fb04626.gif)
 <h1 align="center">Hi 👋, I'm Maya Eid</h1>
 <h3 align="center">A dedicated full stack developer based in Lebanon</h3>
 <img align="right" alt="Coding" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpydmQ2YWNpZHphYWxieDVzaHR5NXBqbHVyNHozNzB5c3pjaTZoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" width="400" >
